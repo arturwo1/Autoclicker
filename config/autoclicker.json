@@ -10,7 +10,7 @@
     "toolwindow": false,
     "alpha": 1,
     "standart_geometry": "500x350",
-    "Version": "p-A 0.0.0",
+    "Version": "p-A 0.0.1",
     "Simple_Function": {
         "interval": 0.001,
         "clicks": 1,

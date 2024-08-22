@@ -1,0 +1,39 @@
+{
+    "Language": 2,
+    "Auto_Start": "f10",
+    "Auto_Disable": "f10",
+    "Auto_Exit": "f8",
+    "Function_Name": "Simple_Function",
+    "topmost": true,
+    "theme": "dark",
+    "allow_updates": true,
+    "toolwindow": false,
+    "alpha": 1,
+    "standart_geometry": "500x350",
+    "Version": "p-A 0.0.0",
+    "Simple_Function": {
+        "interval": 0.001,
+        "clicks": 1,
+        "button": "primary",
+        "duration": 0.1,
+        "repeat": -1
+    },
+    "Function": {
+        "1": {
+            "x": 0,
+            "y": 0,
+            "interval": 0.001,
+            "clicks": 1,
+            "button": "primary",
+            "duration": 0.1
+        },
+        "2": {
+            "x": 5,
+            "y": 90,
+            "interval": 0.001,
+            "clicks": 1,
+            "button": "primary",
+            "duration": 0.1
+        }
+    }
+}

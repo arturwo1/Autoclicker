@@ -1,0 +1,20 @@
+"Language":                 0=None,1=EN,2=RU,3=LT.
+"Auto_Start":               key_bind to start autoclicker.
+"Auto_Disable":             key_bind to disable autoclicker.
+"Auto_Exit":                key_bind to exit from autoclicker.
+"Function_Name":            You can name it "Simple_Function" if you want simple autoclicker, you can name it "Function" if you want to use autoclicker with custom amount of positions for clicks.
+"topmost":                  Allows the application to be always above almost all windows.
+"theme":                    Choose dark or white theme in the app(more in the future).
+"standart_geometry":        Choose standart screen resolution when you open this app.
+"Version":                  Dont change this or you cant get new update!
+
+"x":                        Position by x where the click will occur(for autoclicker with custom amount of positions for clicks).
+"y":                        Position by y where the click will occur(for autoclicker with custom amount of positions for clicks).
+"interval":                 cooldown per clicks(s).
+"clicks":                   Clicks per interval.
+"button":                   With what button click.
+"duration":                 How much seconds Click Long.
+"repeat":                   How much times repeat click(-1 means infinity).
+
+"Simple_Function":          Means simple autoclicker with 1 position for clicks.
+Function":                  Means autoclicker with custom amount of positions for clicks.

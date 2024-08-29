@@ -1,5 +1,5 @@
 {
-    "Language": 2,
+    "Language": 1,
     "Auto_Start": "f10",
     "Auto_Disable": "f10",
     "Auto_Exit": "f8",
@@ -8,7 +8,7 @@
     "theme": "dark",
     "allow_updates": true,
     "toolwindow": false,
-    "alpha": 1,
+    "alpha": 1.0,
     "standart_geometry": "500x350",
     "Version": "p-A 0.0.1",
     "Simple_Function": {
@@ -22,7 +22,7 @@
         "1": {
             "x": 0,
             "y": 0,
-            "interval": 0.001,
+            "interval": 0.01,
             "clicks": 1,
             "button": "primary",
             "duration": 0.1
